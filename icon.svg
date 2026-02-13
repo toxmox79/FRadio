@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="FrequenzRadio Icon">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#11151f"/>
+      <stop offset="100%" stop-color="#1b2030"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="170" fill="none" stroke="#3b82f6" stroke-width="20" opacity="0.35"/>
+  <circle cx="256" cy="256" r="120" fill="none" stroke="#3b82f6" stroke-width="14" opacity="0.6"/>
+  <path d="M325 116v186a58 58 0 1 1-26-48V171l-112 36v144a58 58 0 1 1-26-48V189z" fill="#3b82f6"/>
+</svg>

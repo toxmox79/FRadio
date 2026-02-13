@@ -1,0 +1,19 @@
+﻿{
+  "name": "FrequenzRadio",
+  "short_name": "Radio",
+  "description": "Offline Radio Player mit Frequenzgenerator",
+  "lang": "de",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#11151f",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
