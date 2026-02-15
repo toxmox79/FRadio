@@ -1,9 +1,11 @@
-﻿const CACHE_NAME = 'frequenzradio-pwa-v1';
+﻿const CACHE_NAME = 'frequenzradio-pwa-v2';
 const APP_SHELL = [
   './',
   './index.html',
   './manifest.webmanifest',
-  './icon.svg'
+  './icon.svg',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 self.addEventListener('install', (event) => {
